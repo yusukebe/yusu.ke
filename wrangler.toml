@@ -1,0 +1,11 @@
+name = "yusu_ke"
+compatibility_date = "2023-01-01"
+
+routes = [
+  { pattern = "yusu.ke/*", zone_id = "caeeeadc7b4bcbe54b3def120f329db6" }
+]
+
+main = "src/index.tsx"
+
+[site]
+bucket = "./site"
