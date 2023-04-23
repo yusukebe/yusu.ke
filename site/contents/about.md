@@ -5,7 +5,8 @@
 
 ## Work experience
 
-* 2020 - [TravelBook inc.](https://corp.travelbook.co.jp/)
+* 2023 - [Cloudflare](https://www.cloudflare.com/) Developer Advocate
+* 2020 - 2023 [TravelBook inc.](https://corp.travelbook.co.jp/)
 * 2019 - Freelance
 * 2007 - 2016 [Omoroki inc](https://omoroki.com).
 * 2006 - 2016 Wadit Inc.
