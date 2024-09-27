@@ -9,10 +9,10 @@ export const Header = () => {
         <nav>
           <ul>
             <li>
-              <a href="https://twitter.com/yusukebe">Twitter</a>
+              <a href="https://x.com/yusukebe">X</a>
               <a href="https://github.com/yusukebe">GitHub</a>
               <a href="https://blog.yusu.ke">Blog</a>
-              <a href="https://yusukebe.com">Blog(ja)</a>
+              <a href="https://yusukebe.com">Blog - ja</a>
             </li>
           </ul>
         </nav>

@@ -7,7 +7,8 @@ body {
   padding: 1rem 2rem;
 }
 
-a:link, a:visited {
+a:link,
+a:visited {
   color: royalblue;
   text-decoration: none;
 }
@@ -39,7 +40,7 @@ nav ul {
 }
 
 nav ul li a {
-  padding-right:1rem;
+  padding-right: 1rem;
 }
 
 .wrapper {

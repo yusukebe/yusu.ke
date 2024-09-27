@@ -1,12 +1,9 @@
 import { Hono } from 'hono'
-import { serveStatic } from 'hono/cloudflare-workers'
 import { renderer } from './renderer'
+import about from '../contents/about.md'
 
 const app = new Hono()
 
-app.get('/static/*', serveStatic({ root: './' }))
-app.get('/favicon.ico', serveStatic({ path: './favicon.ico' }))
-
-app.get('/', renderer('about.md', {}))
+app.get('/', renderer(about))
 
 export default app

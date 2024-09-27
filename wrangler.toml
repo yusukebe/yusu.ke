@@ -1,11 +1,13 @@
 name = "yusu_ke"
-compatibility_date = "2023-01-01"
+main = "src/index.tsx"
+compatibility_date = "2024-09-02"
+
+rules = [
+  { type = "Text", globs = ["**/*.md"], fallthrough = true }
+]
+
+assets = { directory = "./public/" }
 
 routes = [
   { pattern = "yusu.ke/*", zone_id = "caeeeadc7b4bcbe54b3def120f329db6" }
 ]
-
-main = "src/index.tsx"
-
-[site]
-bucket = "./site"

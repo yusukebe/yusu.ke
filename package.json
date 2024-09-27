@@ -1,15 +1,15 @@
 {
   "scripts": {
-    "dev": "wrangler dev --local --live-reload src/index.tsx",
-    "deploy": "wrangler publish --minify src/index.tsx"
+    "dev": "wrangler dev --local --live-reload",
+    "deploy": "wrangler deploy --minify"
   },
   "dependencies": {
-    "hono": "^3.1.5",
+    "hono": "^4.6.3",
     "marked": "^4.3.0"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20221111.1",
+    "@cloudflare/workers-types": "^4.20240925.0",
     "@types/marked": "^4.0.8",
-    "wrangler": "^2.14.0"
+    "wrangler": "^3.78.10"
   }
 }
