@@ -25,9 +25,12 @@
 
 ## Works
 
+- 2026 - [ax - The AI-era curl](https://github.com/yusukebe/ax)
+- 2025 - [Hono CLI - CLI for Humans and AI with Hono](https://github.com/honojs/cli)
+- 2025 - [Hono Conference 2025](https://honoconf.dev/2025) Committee Chairman
 - 2024 - [HonoX - Hono based meta framework](https://github.com/honojs/honox)
 - 2022 - [Pico - Ultra-tiny router for Cloudflare Workers and Deno](https://github.com/yusukebe/pico)
-- 2021 - [Hono - Web framework built on Web Standards](https://honojs.dev/)
+- 2021 - [Hono - Web framework built on Web Standards](https://hono.dev/)
 - 2021 - [gh markdown-preview](https://github.com/yusukebe/gh-markdown-preview)
 - 2016 - [revealgo](https://github.com/yusukebe/revealgo)
 - 2014 - [App::revealup](https://metacpan.org/pod/App::revealup)
@@ -41,12 +44,17 @@
 
 ## Presentation (en)
 
+- 2025 - JSNation 2025 [Build Your Web Framework From Scratch!](https://gitnation.com/contents/build-your-web-framework-from-scratch)
+- 2025 - Node Congress 2025 [Make Hono work on Node.js](https://gitnation.com/contents/make-hono-work-on-nodejs)
 - 2022 - JSConf JP 2022 [Hono - Ultrafast web framework for Cloudflare Workers, Deno, Bun, and Node.js](https://speakerdeck.com/yusukebe/hono-ultrafast-web-framework-for-cloudflare-workers-deno-bun-and-node-dot-js)
 - 2015 - YAPC::Europe 2015 [Local server based Web Application](https://yusukebe.github.io/slides/local_server_based_webapp/#/)
 - 2013 - YAPC::NA 2013 [Inside Bokete: Web Application with Mojolicious and others](https://www.slideshare.net/yusukebe/inside-bokete-web-application-with-mojolicious-and-others)
 
 ## Presentation (ja)
 
+- 2026 - フロントエンド・PHPカンファレンス北海道2026 [AI時代のUIはどこへ行く？その2！](https://speakerdeck.com/yusukebe/aishi-dai-nouihadokohexing-ku-sono2)
+- 2025 - YAPC::Fukuoka 2025 [OSS開発者の憂鬱](https://speakerdeck.com/yusukebe/osskai-fa-zhe-noyou-yu)
+- 2025 - フロントエンドカンファレンス北海道2025 [AI時代のUIはどこへ行く？](https://speakerdeck.com/yusukebe/aishi-dai-nouihadokohexing-ku)
 - 2024 - YAPC::Hiroshima 2024 前夜祭 [Hono v4](https://speakerdeck.com/yusukebe/hono-v4)
 - 2023 - JSConf JP [Hono v3 and v4](https://speakerdeck.com/yusukebe/hono-v3-and-v4)
 - 2023 - YAPC::Kyoto 2023 [どこでも動く Web フレームワークをつくる](https://speakerdeck.com/yusukebe/dokodemodong-kuwebhuremuwakuwotukuru)
