@@ -77,6 +77,8 @@
 
 ## Interviews (ja)
 
+- 2026 - [「OSS開発者の憂鬱」のその先へ、AI時代にHono作者が見ている景色 - Findy Media](https://findy-code.io/media/articles/interview-yusukebe)
+- 2026 - [ここ3年で急激に伸びているJSフレームワーク『Hono』はどのように生まれたのか【ザ・ドキュメンタリー : Hono】 - TECH WORLD / YouTube](https://www.youtube.com/watch?v=lgy0FKho2yI)
 - 2024 - [「Hono はあくまでオープンソースプロダクト」開発者でコントリビューターの私が会社員になった理由 - Findy Engineer Lab](https://findy-code.io/engineer-lab/yusukebe)
 - 2014 - [若いエンジニアこそイベントに！｜ゆーすけべー（オモロキ CTO/YAPC 実行委員長） | キャリアハック](https://careerhack.en-japan.com/report/detail/349)
 - 2014 - [和田裕介（ボケて）× 土屋泰洋：前編「ゆーすけべーの作り方」 | ウェブ電通報](https://dentsu-ho.com/articles/2006)
