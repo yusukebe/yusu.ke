@@ -1,11 +1,11 @@
 ## About
 
-- Fullstack web creator
-- Web framework developer
+- Web Application Developer
+- Web Framework Developer
 
 ## Work experience
 
-- 2023 - [Cloudflare](https://www.cloudflare.com/) Developer Advocate
+- 2023 - [Cloudflare](https://www.cloudflare.com/) Senior Developer Advocate
 - 2020 - 2023 [TravelBook inc.](https://corp.travelbook.co.jp/)
 - 2019 - Freelance
 - 2007 - 2016 [Omoroki inc](https://omoroki.com).
@@ -42,33 +42,6 @@
 - 2004 - Takashi Matsumoto, Yusuke Wada, Miho Norimatsu, Naohito Okude. "Smart-Media Applications Created by Scenario Based Modling. Symposium on Applications and the Internet Workshops(SAINT 2004 Workshops), pp473-479, IEEE Computer Society, 2004
 - 2003 - [Mito youth project](https://www.ipa.go.jp/jinzai/esp/15youth/mdata/99-13.html)
 
-## Presentation (en)
-
-- 2025 - JSNation 2025 [Build Your Web Framework From Scratch!](https://gitnation.com/contents/build-your-web-framework-from-scratch)
-- 2025 - Node Congress 2025 [Make Hono work on Node.js](https://gitnation.com/contents/make-hono-work-on-nodejs)
-- 2022 - JSConf JP 2022 [Hono - Ultrafast web framework for Cloudflare Workers, Deno, Bun, and Node.js](https://speakerdeck.com/yusukebe/hono-ultrafast-web-framework-for-cloudflare-workers-deno-bun-and-node-dot-js)
-- 2015 - YAPC::Europe 2015 [Local server based Web Application](https://yusukebe.github.io/slides/local_server_based_webapp/#/)
-- 2013 - YAPC::NA 2013 [Inside Bokete: Web Application with Mojolicious and others](https://www.slideshare.net/yusukebe/inside-bokete-web-application-with-mojolicious-and-others)
-
-## Presentation (ja)
-
-- 2026 - フロントエンド・PHPカンファレンス北海道2026 [AI時代のUIはどこへ行く？その2！](https://speakerdeck.com/yusukebe/aishi-dai-nouihadokohexing-ku-sono2)
-- 2025 - YAPC::Fukuoka 2025 [OSS開発者の憂鬱](https://speakerdeck.com/yusukebe/osskai-fa-zhe-noyou-yu)
-- 2025 - フロントエンドカンファレンス北海道2025 [AI時代のUIはどこへ行く？](https://speakerdeck.com/yusukebe/aishi-dai-nouihadokohexing-ku)
-- 2024 - YAPC::Hiroshima 2024 前夜祭 [Hono v4](https://speakerdeck.com/yusukebe/hono-v4)
-- 2023 - JSConf JP [Hono v3 and v4](https://speakerdeck.com/yusukebe/hono-v3-and-v4)
-- 2023 - YAPC::Kyoto 2023 [どこでも動く Web フレームワークをつくる](https://speakerdeck.com/yusukebe/dokodemodong-kuwebhuremuwakuwotukuru)
-- 2022 - PWA Night Conference 2022 [Dive into Cloudflare Workers](https://yusukebe.github.io/slides/pwanight-conf-2022/#/)
-- 2022 - Fastly User Meetup #4 [Code over Configuration 〜 Compute@Edge は VCL に置き換わるのか](https://yusukebe.github.io/slides/fastly-meetup-04/#/)
-- 2022 - YAPC::Japan::Online 2022 - [Hono 炎 Ultrafast web framework for Cloudflare Workers.](https://yusukebe.github.io/slides/yapc2022-hono/#/)
-- 2016 - [Shibuya.go#1](https://shibuyago.connpass.com/event/25852/) [revealgo](https://yusukebe.github.io/slides/shibuyago01/#/)
-- 2016 - YAPC::Asia Hachioji 2016 [Web サービスにおける キャッシュ戦略 - Speaker Deck](https://speakerdeck.com/yusukebe/websabisuniokeru-kiyatusiyuzhan-lue)
-- 2015 - YAPC::Asia 2015 [Podcast を支える技術、エンジニアのための Web メディア、そして CPAN](https://www.slideshare.net/yusukebe/podcastwebcpan)
-- 2013 - YAPC::Asia 2013 [Mojolicious でつくる！ Web アプリ入門](https://www.slideshare.net/yusukebe/yapcasia-2013-mojolicious)
-- 2013 - [MarkeZine Academy](https://event.shoeisha.jp/mza/20130723) [1 日でわかる Web サービス制作の全て ～企画から実装まで～](https://yusukebe.github.io/slides/webservice-oneday/#/)
-- 2012 - YAPC::Asia 2012 [「新しい」を生み出すための Web アプリ開発とその周辺](https://www.slideshare.net/yusukebe/web-14511784)
-- etc.
-
 ## Books (ja)
 
 - 2013 - [Web アプリエンジニア養成読本(共著) / 技術評論社](http://www.amazon.co.jp/dp/4774163678/)
@@ -90,6 +63,7 @@
 - [Blog (ja)](https://yusukebe.com/)
 - [X / yusukebe](https://twitter.com/yusukebe)
 - [GitHub / yusukebe](https://github.com/yusukebe)
+- [LinkedIn / yusukebe](https://www.linkedin.com/in/yusukebe/)
 - [Mastodon](https://mas.to/@yusukebe)
 - [CPAN / yusukebe ](https://metacpan.org/author/YUSUKEBE)
 - [Speaker Deck / yusukebe](https://speakerdeck.com/yusukebe)
