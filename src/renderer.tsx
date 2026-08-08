@@ -34,7 +34,7 @@ export const layout = (body: string) => {
         <link rel="icon" href="/favicon.ico" />
         <link rel="stylesheet" href="/static/css/style.css" />
         <meta property="og:title" content="Yusuke Wada" />
-        <meta property="og:description" content="A web framework developer" />
+        <meta property="og:description" content="Web Application Developer / Web Framework Developer" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://yusu.ke" />
         <meta property="og:image" content="https://yusu.ke/static/images/profile_childfood_400x400.jpg" />
